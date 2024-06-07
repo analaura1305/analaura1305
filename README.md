@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**analaura1305/analaura1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Boas vindas ao meu perfil ♥️
+Meu nome é Ana Laura
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo :mailbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001124060686sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/AapKRNOpG6cAAAAC/ohno-meme-monkey-ohno.gif)
